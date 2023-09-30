@@ -1,15 +1,15 @@
 {
-    "name": "wyrihaximus/react-cache-filesystem",
+    "name": "festars/react-cache-filesystem",
     "description": "Store cache items on the filesystem",
     "license": "MIT",
     "authors": [
         {
             "name": "Cees-Jan Kiewiet",
-            "email": "ceesjank@gmail.com"
+            "email": "fest@gmail.com"
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^8.1",
         "react/cache": "^1.0",
         "react/filesystem": "^0.1"
     },
